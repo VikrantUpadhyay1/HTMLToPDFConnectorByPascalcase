@@ -1,4 +1,4 @@
-# HTMLToPDFCustomConnector
+# HTMLToPDFConverter
 Convert HTML to PDF connectors
 
 1. Users can use this connector by searching "HTMLToPDFConverter" in powerautomate "add an action".
