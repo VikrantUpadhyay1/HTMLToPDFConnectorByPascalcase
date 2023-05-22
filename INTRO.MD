@@ -12,19 +12,21 @@ There will be a key/Cypher given to you which can be used inside the power autom
 
 ## Get started with your connector
 
-HTMLToPDFConverter
-	
-Walkthrough:
 1.	Search for html to pdf converter in choose an operation area. Select the pascalcase connector. Refer Image – H1
+ 
+ ![image](https://github.com/VikrantUpadhyay1/HTMLToPDFCustomConnector/assets/122965309/5d5e13f1-8877-4798-9f68-16c20f83767f)
  
 Image – H1
 2.	Provide content type, html string/code and the key {can be null}.The key will be provided by pascalcase software pvt.ltd to the users if they want to generate more than 1 page of PDF, else the generated PDF will be of 1 page. By default, the content type and html string will have some values in them, users can change the html value based on their desire. Refer Image – H2
- 
-Image – H1
+
+ ![image](https://github.com/VikrantUpadhyay1/HTMLToPDFCustomConnector/assets/122965309/32eed87d-0055-478a-8c6a-3305f9899396)
+Image – H2
 
 3.	Once run the response will be a bytes array which can be used in any file content parameter either for Dataverse or for SharePoint. Refer Image – H2
  
-Image – H2
+![image](https://github.com/VikrantUpadhyay1/HTMLToPDFCustomConnector/assets/122965309/3c51d113-031f-4fb5-9629-b93e400b66c2)
+
+Image – H3
 
 
 ## Known issues and limitations
